@@ -31,6 +31,6 @@ html {
 .banner-content {
   color: #fff;
   position: absolute;
-  top: 18em;
-  left: 3rem;
+  bottom: 1px;
+  max-width: 600px;
 }
