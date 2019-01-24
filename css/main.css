@@ -32,12 +32,6 @@ html {
   color: #fff;
   position: absolute;
   bottom: 1px;
-}
-
-@media only screen and (min-width: 90em) {
-
-  .banner-content {
-    left: 10rem;
-  }
-
-}
+  left: 50%;
+  transform: translateX(-50%);
+;
